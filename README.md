@@ -29,5 +29,18 @@ Here are some ideas to get you started:
       style="max-width:100px;"
       />
 </a>&nbsp; &nbsp;
+   
+   <a 
+   href="https://www.credly.com/badges/792d375c-3bf6-42df-9cf6-bb23f89f8d1b/public_url"
+   target="_blank" 
+   title="AWS Certified Cloud Practitioner" 
+   alt="AWS Certified Cloud Practitioner">
+   <img 
+      src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
+      alt="AWS Certified Cloud Practitioner"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;
 
 </a>&nbsp; &nbsp;</p>
