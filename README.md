@@ -53,7 +53,7 @@ Here are some ideas to get you started:
       width="100px" 
       style="max-width:100px;"
       />
-</a>&nbsp; &nbsp;
+</a>
    
    <a 
    href="https://www.credly.com/badges/792d375c-3bf6-42df-9cf6-bb23f89f8d1b/public_url"
@@ -66,5 +66,5 @@ Here are some ideas to get you started:
       width="100px" 
       style="max-width:100px;"
       />
-</a>&nbsp; &nbsp;
+</a>
 </p>
