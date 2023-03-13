@@ -38,13 +38,13 @@ Here are some ideas to get you started:
       alt="AWS Certified Developer – Associate"
       width="100px"  
       style="max-width:100px;" />
-</a>&nbsp; &nbsp;<a href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827" 
+</a>&nbsp; &nbsp;<a href="https://www.credly.com/badges/c1e4790f-ed03-4afb-ade4-3938bb76d5fd/public_url" 
    target="_blank" 
-   title="Google Cloud - DevOps Essentials"
-   alt="Google Cloud - DevOps Essentials">
+   title="AWS Educate Getting Started with Storage"
+   alt="AWS Educate Getting Started with Storage">
    <img 
-      src="https://cdn.qwiklabs.com/0kN88wm9Jn%2FTs6GNut2s2RhY%2F2vHs3jKLbL6MxZawqA%3D"
-      alt="Google Cloud - DevOps Essentials" 
+      src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png"
+      alt="AWS Educate Getting Started with Storage" 
       width="100px" 
       style="max-width:100px;"/>
 </a>&nbsp;&nbsp;<a 
