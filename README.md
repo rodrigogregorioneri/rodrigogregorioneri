@@ -78,13 +78,13 @@ Here are some ideas to get you started:
       width="100px"
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;<a 
-   href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827"
+   href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3240231"
    target="_blank"
-   alt="Google Cloud - DevOps Essentials"
-   title="Google Cloud - DevOps Essentials">
+   alt="Deploy to Kubernetes in Google Cloud"
+   title="Deploy to Kubernetes in Google Cloud">
    <img 
-      src="https://cdn.qwiklabs.com/0kN88wm9Jn%2FTs6GNut2s2RhY%2F2vHs3jKLbL6MxZawqA%3D"
-      alt="Google Cloud - DevOps Essentials" 
+      src="https://cdn.qwiklabs.com/kqE8y3KZ7X%2FFV6jbYL4fV7Hi0zEKgcGu3QEdy0ivq5o%3D"
+      alt="Deploy to Kubernetes in Google Cloud" 
       width="100px" 
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;<a 
