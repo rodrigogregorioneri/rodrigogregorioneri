@@ -28,7 +28,7 @@ Here are some ideas to get you started:
       width="100px" 
       style="max-width:100px;"
       />
-</a>&nbsp; &nbsp;
+</a>
    
    <a 
    href="https://www.credly.com/badges/792d375c-3bf6-42df-9cf6-bb23f89f8d1b/public_url"
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
       width="100px" 
       style="max-width:100px;"
       />
-</a>&nbsp; &nbsp;
+</a>
 <a 
    href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827"
    target="_blank" 
