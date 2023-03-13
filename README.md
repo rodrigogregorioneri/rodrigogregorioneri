@@ -58,13 +58,13 @@ Here are some ideas to get you started:
       width="100px" 
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;<a 
-   href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827" 
+   href="https://www.credly.com/badges/6c40e897-d657-4b96-a903-a6040accdb37/public_url" 
    target="_blank"
-   title="Google Cloud - DevOps Essentials"
-   alt="Google Cloud - DevOps Essentials">
+   title="AWS Educate Getting Started with Databases"
+   alt="AWS Educate Getting Started with Databases">
    <img 
-      src="https://cdn.qwiklabs.com/0kN88wm9Jn%2FTs6GNut2s2RhY%2F2vHs3jKLbL6MxZawqA%3D"
-      alt="Google Cloud - DevOps Essentials"
+      src="https://images.credly.com/size/340x340/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png"
+      alt="AWS Educate Getting Started with Databases"
       width="100px" 
       style="max-width:100px;">
 </a>&nbsp; &nbsp;<a 
