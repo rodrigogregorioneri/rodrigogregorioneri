@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    title="Google Cloud - DevOps Essentials" 
    alt="Google Cloud - DevOps Essentials">
    <img 
-      src="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827"
+      src="[https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827](https://cdn.qwiklabs.com/0kN88wm9Jn%2FTs6GNut2s2RhY%2F2vHs3jKLbL6MxZawqA%3D)"
       alt="Google Cloud - DevOps Essentials"
       width="100px" 
       style="max-width:100px;"
