@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+
+<a 
+   href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827"
+   target="_blank" 
+   title="Google Cloud - DevOps Essentials" 
+   alt="Google Cloud - DevOps Essentials">
+   <img 
+      src="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827"
+      alt="Google Cloud - DevOps Essentials"
+      width="100px" 
+      style="max-width:100px;"
+      />
+</a>&nbsp; &nbsp;
+
+</a>&nbsp; &nbsp;</p>
