@@ -78,6 +78,15 @@ Here are some ideas to get you started:
       width="100px"
       style="max-width:100px;"/>
 </a>&nbsp; &nbsp;<a 
+   href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3236764"
+   target="_blank"
+   title="Google Cloud Essentials">
+   <img 
+      src="https://cdn.qwiklabs.com/xRejIPM4k6VgI8%2B%2B2Nz5bFHFx8PwK0nn9oQofkJOsS4%3D"
+      alt="Google Cloud Essentials"
+      width="100px"
+      style="max-width:100px;"/>
+</a>&nbsp; &nbsp; <a 
    href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3240231"
    target="_blank"
    alt="Deploy to Kubernetes in Google Cloud"
@@ -97,16 +106,7 @@ Here are some ideas to get you started:
       alt="Implement DevOps in Google Cloud"
       width="100px" 
       style="max-width:100px;"/>
-</a>&nbsp; &nbsp; <a 
-   href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827"
-   target="_blank"
-   title="Google Cloud - DevOps Essentials">
-   <img 
-      src="https://cdn.qwiklabs.com/0kN88wm9Jn%2FTs6GNut2s2RhY%2F2vHs3jKLbL6MxZawqA%3D"
-      alt="Google Cloud - DevOps Essentials"
-      width="100px"
-      style="max-width:100px;"/>
-</a>&nbsp; &nbsp; <a 
+</a>&nbsp; &nbsp;<a 
    href="https://googlecloud.qwiklabs.com/public_profiles/e506fef3-868d-41c9-b640-03d2d4b7b765/badges/3241827"
    target="_blank"
    title="Google Cloud - DevOps Essentials">
